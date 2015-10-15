@@ -3,6 +3,7 @@
 = Keithley 6482 LabVIEW Driver and Application =
 
 Originally created by Christopher R. Field <christopher.field at nrl.navy.mil, cfield2 at gmail.com>
+Original Labview Version: 12.0 (mostly)
 
 == Introduction ==
 
