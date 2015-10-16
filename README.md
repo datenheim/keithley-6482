@@ -2,7 +2,7 @@ Keithley 6482 (250X) LabVIEW Driver
 -----------------------------------
 [Automatically exported from code.google.com/p/keithley-6482]
 Originally created by Christopher R. Field <christopher.field at nrl.navy.mil, cfield2 at gmail.com>
-Original Labview Version: 12.0 (mostly)
+Original Labview Version: 12.0 (mostly) now continued in 14.0 with export to lower versions.
 
 The driver is now developed against a 6482 model but should more or less completely run on 2500 and 2502 models too.
 
