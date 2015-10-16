@@ -9,5 +9,7 @@ The Keithley 6482 is a dual-channel picoampere meter used for measuring very low
 
 Changes:
 
-2015-10-15:     - restructured folders, converted to Labview 14
-                - added down converted library for Labview 8.6
+2015-10-15 - restructured folders, converted to Labview 14
+           - added down converted library for Labview 8.6
+2015-10-16 - added VI for line frequency setting
+           - removed irrelevant channel input for SetIntegrationRate.vi and SetDigitalFilterControl.vi
