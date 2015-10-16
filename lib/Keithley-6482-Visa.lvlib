@@ -31,6 +31,7 @@
 			<Item Name="TriggerDirection.ctl" Type="VI" URL="../Public/Controls/TriggerDirection.ctl"/>
 			<Item Name="TriggerEvent.ctl" Type="VI" URL="../Public/Controls/TriggerEvent.ctl"/>
 			<Item Name="TriggerSource.ctl" Type="VI" URL="../Public/Controls/TriggerSource.ctl"/>
+			<Item Name="LineFrequencyEnum.ctl" Type="VI" URL="../Public/Controls/LineFrequencyEnum.ctl"/>
 		</Item>
 		<Item Name="Display" Type="Folder">
 			<Item Name="GetDisplayBlinkingState.vi" Type="VI" URL="../Public/Display/GetDisplayBlinkingState.vi"/>
@@ -94,6 +95,7 @@
 			<Item Name="SetIntegrationRate.vi" Type="VI" URL="../Public/Sense/SetIntegrationRate.vi"/>
 			<Item Name="SetMedianFilterRank.vi" Type="VI" URL="../Public/Sense/SetMedianFilterRank.vi"/>
 			<Item Name="SetMedianFilterState.vi" Type="VI" URL="../Public/Sense/SetMedianFilterState.vi"/>
+			<Item Name="SetLineFrequency.vi" Type="VI" URL="../Public/Sense/SetLineFrequency.vi"/>
 		</Item>
 		<Item Name="Trigger" Type="Folder">
 			<Item Name="Abort.vi" Type="VI" URL="../Public/Trigger/Abort.vi"/>
